@@ -1,0 +1,23 @@
+Transaction Type=>Debit
+Date & Time => Tue May  2 13:37:58 2023
+
+Amount=> 2000Transaction Type=>Credit
+Date & Time => Tue May  2 13:44:21 2023
+
+Amount=> NGN21000
+
+Transaction Type=>Debit
+Date & Time => Tue May  2 13:45:15 2023
+
+Amount=> NGN0
+
+Transaction Type=>Credit
+Date & Time => Tue May  2 13:50:59 2023
+
+Amount=> NGN11000
+
+Transaction Type=>Debit
+Date & Time => Tue May  2 13:54:38 2023
+
+Amount=> NGN0
+
